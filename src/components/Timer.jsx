@@ -6,7 +6,7 @@ import { ArrowRight } from './icons'
 
 function Timer() {
   // Anniversary date
-  const START_DATE = new Date('2000-01-01')
+  const START_DATE = new Date('2024-02-27')
   const [timeLeft, setTimeLeft] = useState({
     days: 0,
     hours: 0,

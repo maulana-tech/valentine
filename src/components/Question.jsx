@@ -11,7 +11,7 @@ function Question() {
   const inputRef = useRef(null);
 
   // Customize your own Trending Searches
-  const trends = ['spotify mod', 'seasons wave to earth lyrics', `how to treat your gf right?`,]
+  const trends = ['spotify our song', 'seasons wave to earth lyrics', `how to treat your gf right?`,]
 
   const handleSearch = (e) => {
     e.preventDefault()
